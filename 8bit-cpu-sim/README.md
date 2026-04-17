@@ -99,7 +99,4 @@ If you have `pytest` installed:
 pytest
 ```
 
-## License
-
-Add a license file if you plan to open source this on GitHub (MIT is common for learning projects).
 
